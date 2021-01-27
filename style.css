@@ -1,0 +1,28 @@
+body {
+    background-color: #7dffcd;
+}
+#flex {
+    display: flex;
+    flex-direction: row;
+}
+nav {
+    background-color: #ececec;
+}
+main {
+    background-color: #1fc459;
+}
+h1 {
+    color: red;
+}
+#navi {
+    color: #521127;
+}
+#comment {
+    background-color: #b0cd50;
+}
+#comment_text {
+    background-color: #ff7373;
+}
+#mark_ {
+    color: #2654fb;
+}
